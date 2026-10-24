@@ -1,6 +1,6 @@
 # Numalg_Final_Project_Genetic_Algorithm
 
----Improved Genetic Algorithm Simulatons---
+---Improved Genetic Algorithm Simulations---
 
 Authors: Szabó Domonkos Sándor, Karácsonyi Milán
 
